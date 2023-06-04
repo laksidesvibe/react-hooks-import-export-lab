@@ -1,4 +1,5 @@
 import React from "react";
+import {username, city} from "./react-hooks-import-export-lab/src/data/user";
 
 function Home() {
   return (
