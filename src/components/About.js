@@ -1,5 +1,5 @@
 import React from "react";
-import {image} from "./react-hooks-import-export-lab/src/data/user";
+import {image} from "../data/user";
 
 function About() {
   return (
